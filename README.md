@@ -1,2 +1,5 @@
 # my_Webscraper
-MyWebScraperInDocker
+#MyWebScraperInDocker
+#Thomas Bernecker 
+
+#Demowecke Lern und Bewerbngsmaterial
